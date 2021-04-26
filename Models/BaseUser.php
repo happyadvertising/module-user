@@ -7,7 +7,7 @@
 namespace BasicApp\User\Models;
 
 use BasicApp\Behaviors\EntitySetNullBehavior;
-use BasicApp\Member\UserInterface;
+use BasicApp\Interfaces\UserInterface;
 
 abstract class BaseUser extends \denis303\user\User implements UserInterface
 {
