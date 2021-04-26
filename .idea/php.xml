@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/basic-app/mailer" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/crud" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/module-message" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/module-configs" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/site" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/module-page" />
+      <path value="$PROJECT_DIR$/vendor/codeigniter4/framework" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/system" />
+      <path value="$PROJECT_DIR$/vendor/denis303/php-file-helper" />
+      <path value="$PROJECT_DIR$/vendor/denis303/php-download-helper" />
+      <path value="$PROJECT_DIR$/vendor/denis303/php-zip-helper" />
+      <path value="$PROJECT_DIR$/vendor/denis303/php-traits" />
+      <path value="$PROJECT_DIR$/vendor/phptheme/html-helper" />
+      <path value="$PROJECT_DIR$/vendor/kint-php/kint" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/core" />
+      <path value="$PROJECT_DIR$/vendor/basic-app/admin" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-form" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-auth" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-model-helper" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-migration" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-user" />
+      <path value="$PROJECT_DIR$/vendor/denis303/codeigniter4-nested-views" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+</project>

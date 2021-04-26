@@ -13,6 +13,19 @@
     "require": {
         "denis303/codeigniter4-user": "*",
         "basic-app/module-page": "*",
-        "basic-app/module-message": "*"
-    }
+        "basic-app/core": "*",
+        "basic-app/module-message": "*",
+        "composer-plugin-api": "^1.0 || ^2.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/happyadvertising/core.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "description": ""
 }
