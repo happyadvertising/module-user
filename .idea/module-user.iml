@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/" isTestSource="false" packagePrefix="BasicApp\User\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/crud" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/module-message" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/module-configs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/site" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/module-page" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/codeigniter4/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/system" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/php-file-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/php-download-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/php-zip-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/php-traits" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phptheme/html-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kint-php/kint" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/core" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/basic-app/admin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-form" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-model-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-migration" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-user" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/denis303/codeigniter4-nested-views" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laminas/laminas-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
